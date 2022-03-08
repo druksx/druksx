@@ -8,7 +8,10 @@
   Hi, my name is Aurélien, and I am C programmer based in Paris. 💻
   <br>I am currently studying at Epitech Paris for my first year. 📚
   <br>As a normal human, I like playing videogames, eating, sleeping and watching animes.
-  <br>By the way ! Here is one of my favorite anime characters :
+  <br>By the way ! Here is one of my favorite anime characters : 
+<h2 align = "center">
+  <img src = "benimaru-fire-force.gif">
+</h2>
 </p>
 <h2 align = "left">
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Stats&size=35&font=Roboto&duration=6000">
