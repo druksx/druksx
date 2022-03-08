@@ -5,7 +5,7 @@
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=About+Me&size=35&duration=6000&font=Roboto">
 </h2>
 <p align = left font = Roboto>
-  Hi, my name is Aurélien, and I am C programmer based in Paris. 💻
+  Hi, my name is Aurélien, and I am a C programmer based in Paris. 💻
   <br>I am currently studying at Epitech Paris for my first year. 📚
   <br>As a normal human, I like playing videogames, eating, sleeping and watching animes.
   <br>By the way ! Here is one of my favorite anime characters : 
