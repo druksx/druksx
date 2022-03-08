@@ -7,6 +7,3 @@
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=druksx&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
 </p>
-## Language
-<p align = "left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
