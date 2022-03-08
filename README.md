@@ -36,3 +36,6 @@
 <h2 align = "left">
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Contact+Me+!&size=35&font=Roboto&duration=6000">
 </h2>
+<p align = "center">
+  <a href="https://twitter.com/raydrux"><img alt="Twitter" height="70" width="70" src="twitter.png"></a>
+</p>
