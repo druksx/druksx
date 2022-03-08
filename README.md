@@ -37,5 +37,6 @@
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Contact+Me+!&size=35&font=Roboto&duration=6000">
 </h2>
 <p align = "center">
-  <a href="https://twitter.com/raydrux"><img alt="Twitter" height="70" width="70" src="twitter.png"></a>
+  <a href="https://epitech.jobteaser.com/fr/profiles/4998f68b-cf56-4dee-bf13-a7e27fefe3d4"><img alt="Twitter" height="70" width="70" src="logo_vertical_blanc_fond_vert.png"></a>
 </p>
+
