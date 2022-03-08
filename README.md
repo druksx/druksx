@@ -22,3 +22,6 @@
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=druksx&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p>
+<div align="center">
+    <img src="exemple.svg" width="400" height="400" alt="css-in-readme">
+</div>
