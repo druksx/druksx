@@ -1,6 +1,7 @@
 ## About me
-
-## Stats
+<h2 align = "left">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%2335CDA9&lines=Stats)](https://git.io/typing-svg">
+  </h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=druksx&show_icons=true&theme=gotham&line_height=27">
 </p>
