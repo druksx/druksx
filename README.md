@@ -1,9 +1,14 @@
-<h2 align = "center">
-  <img src = "8f4fd8210b770df2dddcd0989f6857a3.gif">
+<h2 align = "center ">
+  <img src = "8f4fd8210b770df2dddcd0989f6857a3.gif" width = 2000 height = 300>
 </h2>
 <h2 align = "left">
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=About+Me&size=35&duration=6000&font=Roboto">
 </h2>
+<p align = left font = Roboto>
+  Hi, my name is Aurélien, and I am C programmer based in Paris. 💻
+  <br>I am currently studying at Epitech Paris for my first year. 📚
+  <br>As a normal human, I like playing videogames, eating, sleeping and watching animes.
+</p>
 <h2 align = "left">
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Stats&size=35&font=Roboto&duration=6000">
 </h2>
