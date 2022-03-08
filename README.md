@@ -1,5 +1,5 @@
 <h2 align = "left">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=%599CAB&lines=AboutMe!&size=35">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%599CAB&lines=About+Me+!&size=35">
 </h2>
 <h2 align = "left">
   <img src = "https://readme-typing-svg.herokuapp.com?color=%2335CDA9&lines=Stats&size=35">
