@@ -1,8 +1,8 @@
 <h2 align = "left">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=%2335CDA9&lines=About+Me&size=35&duration=2000">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%2335CDA9&lines=About+Me&size=35&duration=2000&font=Roboto">
 </h2>
 <h2 align = "left">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=%2335CDA9&lines=Stats&size=35">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%2335CDA9&lines=Stats&size=35&font=Roboto">
 </h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=druksx&show_icons=true&theme=gotham&line_height=27">
