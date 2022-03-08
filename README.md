@@ -25,3 +25,14 @@
 <h2 align = "left">
     <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Languages&size=35&duration=6000&font=Roboto">
 </h2>
+<p align = "center" >
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+<p align = "center">
+  Currently learning C.
+  <br>In the next months, I would like to learn more about WebDevelopment (ReactJS, VueJS, JS, HTLM, CSS...), DevOps (Docker) or Cybersecurity.
+  <br>(Can't wait to release my own PortFolio !)
+</p>
+<h2 align = "left">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Contact+Me+!&size=35&font=Roboto&duration=6000">
+</h2>
