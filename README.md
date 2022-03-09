@@ -7,7 +7,7 @@
 <p align = left font = Roboto>
   Hi, my name is Aurélien, and I am a C programmer based in Paris. 💻
   <br>I am currently studying at Epitech Paris for my first year. 📚
-  <br>As a normal human, I like playing videogames, eating, sleeping and watching animes.
+  <br>As a normal human, I like playing videogames, eating, sleeping, learning new things and watching animes.
   <br>By the way ! Here is one of my favorite anime characters : 
 <h2 align = "center">
   <img src = "benimaru-fire-force.gif">
