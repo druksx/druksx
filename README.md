@@ -17,9 +17,6 @@
   <img src = "https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Stats&size=35&font=Roboto&duration=6000">
 </h2>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=druksx&show_icons=true&theme=dark&line_height=27">
-</p>
-<p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=druksx&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p>
 <h2 align = "left">
