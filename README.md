@@ -10,7 +10,7 @@
   <br>As a normal human, I like playing videogames, eating, sleeping, learning new things and watching animes.
   <br>By the way ! Here is one of my favorite anime characters : 
 <h2 align = "center">
-  <img src = "benimaru-fire-force.gif">
+  <img src = "toji-toji-walk.gif">
 </h2>
 </p>
 <h2 align = "left">
