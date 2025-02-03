@@ -2,5 +2,6 @@
   <img src = "raccoon.gif" width = 2000 height = 300>
 </h2>
 <h3>
-  3RD YEAR EPITECH STUDENT BASED IN PARIS ٩(ˊᗜˋ*)و
+  4TH YEAR EPITECH STUDENT BASED IN PARIS ٩(ˊᗜˋ*)و
+  CURRENTLY IN EXCHANGE IN DUBLIN ᵕ̈
 </h3>
