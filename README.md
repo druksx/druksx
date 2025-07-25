@@ -21,7 +21,7 @@
   Currently in my final year, with international experience at Griffith College Dublin.
 - 🌍 Based in Paris, open to global opportunities & collaborations.
 - 🧠 Rapid adaptability to new technologies and environments.
-- 🛠️ Strong analytical skills & product sense—always striving for user-centric solutions.
+- 🛠️ Strong analytical skills & product sense, always striving for user-centric solutions.
 
 ---
 
