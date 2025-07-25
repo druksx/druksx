@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="raccoon.gif" width="2000" height="300" alt="Raccoon Banner">
+  <img src="StarsAscii.gif" width="2000" height="300" alt="Raccoon Banner">
 </h2>
 
 <h3 align="center">
